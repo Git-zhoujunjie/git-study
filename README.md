@@ -5,3 +5,5 @@
 local modify
 
 git remote
+
+git diff
