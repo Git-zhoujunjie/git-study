@@ -4,3 +4,5 @@ git commit --amend
 
 branch bugfix01
 
+conflict Test master
+
