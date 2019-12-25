@@ -7,3 +7,5 @@ local modify
 git remote
 
 git diff
+
+git amend after
