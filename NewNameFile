@@ -6,3 +6,5 @@ branch bugfix01
 
 conflict Test master
 
+conflict Test bugfix02
+
