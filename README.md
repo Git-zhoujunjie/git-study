@@ -9,3 +9,6 @@ git remote
 git diff
 
 git amend after
+
+git check bugfix02
+
